@@ -1,0 +1,12 @@
+
+
+enum NavigationItemKey {
+  HOME,
+  SUBJECTS,
+  CLASSROOMS,
+  CALENDAR,
+  SETTINGS,
+  VIRTUAL_CLASSROOM,
+  USER_PROFILE,
+  DOWNLOADED
+}
