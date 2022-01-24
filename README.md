@@ -76,6 +76,15 @@ Step 3:
     or
     static const baseUrl = "https://app.akademi.al/";
     static const browserBaseUrl = "https://app.akademi.al";
-    
+
+
+    GNU GENERAL PUBLIC LICENSE
+
+    Copyright (C) <2022> <Akademi.al>
+
+    This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3.
+    This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+    For more check <https://www.gnu.org/licenses/>.
 
     
